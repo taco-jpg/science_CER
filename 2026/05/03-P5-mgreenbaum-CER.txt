@@ -1,0 +1,8 @@
+CLAIM:
+There are many tuskless elephants in Gorongosa National Park because short-term evolution is acting on the elephant population there.
+
+EVIDENCE:
+Historical data shows that before the Mozambican Civil War (1977-1992), tuskless elephants were rare in Gorongosa National Park. However, following the war and intense poaching for ivory, the proportion of tuskless elephants increased significantly. Genetic studies indicate that the tuskless phenotype in African elephants is controlled by a dominant allele on the X chromosome. Video evidence and bar graphs demonstrate that the frequency of tuskless females rose from nearly 0% in the 1970s to over 50% in recent surveys. Additionally, tuskless males show a much lower frequency than females, with approximately 7% of adult males being tuskless compared to higher percentages in females, consistent with the genetic inheritance pattern of an X-linked trait.
+
+REASONING:
+The rapid increase in tuskless elephants within a single generation (approximately 20-30 years) demonstrates natural selection acting on the population. Elephants with tusks were selectively hunted for ivory during and after the civil war, creating a strong selective pressure against the tusked phenotype. Tuskless elephants survived and reproduced at higher rates than their tusked counterparts, passing the tuskless allele to offspring. This change in allele frequency within a short timeframe represents microevolution occurring in real time, providing direct evidence that evolution can occur rapidly when strong selective pressures are present. The pattern matches predictions of short-term evolution theory, where populations adapt to environmental changes (in this case, human predation) within observable human timescales.
